@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      It's right for me, but not for you. Either way,<br>
+      the concept of "right" means no more than that.<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
 
-<!--
-**mrwibu1/mrwibu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<details align="center">
+<summary> &#9655;</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2><br>
+<p align="center">
+  <samp>
+    [<a href="http://mrghostwriter.com/">matrix</a>]
+    [<a href="saya@mrghostwritter.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+```sh
+curl -sL https://git.io/JKsMD | gpg --import
+```
+
+```console
+B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
+```
+
+</details>
